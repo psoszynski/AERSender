@@ -1,0 +1,11 @@
+C:\Users\psoszynski\source\repos\AERSender\AERSender\bin\Debug\netcoreapp2.1\AERSender.deps.json
+C:\Users\psoszynski\source\repos\AERSender\AERSender\bin\Debug\netcoreapp2.1\AERSender.runtimeconfig.json
+C:\Users\psoszynski\source\repos\AERSender\AERSender\bin\Debug\netcoreapp2.1\AERSender.runtimeconfig.dev.json
+C:\Users\psoszynski\source\repos\AERSender\AERSender\bin\Debug\netcoreapp2.1\AERSender.dll
+C:\Users\psoszynski\source\repos\AERSender\AERSender\obj\Debug\netcoreapp2.1\AERSender.csprojAssemblyReference.cache
+C:\Users\psoszynski\source\repos\AERSender\AERSender\obj\Debug\netcoreapp2.1\AERSender.csproj.CoreCompileInputs.cache
+C:\Users\psoszynski\source\repos\AERSender\AERSender\obj\Debug\netcoreapp2.1\AERSender.AssemblyInfoInputs.cache
+C:\Users\psoszynski\source\repos\AERSender\AERSender\obj\Debug\netcoreapp2.1\AERSender.AssemblyInfo.cs
+C:\Users\psoszynski\source\repos\AERSender\AERSender\bin\Debug\netcoreapp2.1\AERSender.pdb
+C:\Users\psoszynski\source\repos\AERSender\AERSender\obj\Debug\netcoreapp2.1\AERSender.dll
+C:\Users\psoszynski\source\repos\AERSender\AERSender\obj\Debug\netcoreapp2.1\AERSender.pdb
